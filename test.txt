@@ -1,1 +1,4 @@
-This is test text.
+git
+username: e1810
+userpass: ***************
+https://github.com/e1810/Test.git
