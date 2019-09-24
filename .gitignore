@@ -13,6 +13,6 @@ sample.html
 /test
 
 #dirディレクトリ以下をすべて無視
-dir/
+dir/ 
 
 
