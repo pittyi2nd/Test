@@ -1,0 +1,18 @@
+# これはコメント
+
+#sample.htmlを無視
+sample.html
+
+#拡張子が.logのファイルを無視
+*.log
+
+#ただしtest.logは無視しない
+!test.log
+
+#ルートにあるtestディレクトリ以下をすべて無視
+/test
+
+#dirディレクトリ以下をすべて無視
+dir/
+
+
